@@ -3,7 +3,6 @@
 Implementasi FCM (Firebase) untuk notifikasi pada device android menggunakan Flutter
 
 ## Setup Firebase
-
 ```
 > Daftar https://firebase.google.com/
 > Buat project baru firebase
