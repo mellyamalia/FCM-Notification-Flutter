@@ -19,7 +19,7 @@ Implementasi FCM (Firebase) untuk notifikasi pada device android menggunakan Flu
 > Tulis title, isi pesan, kemudian pastekan token yang udah didapet tadi
 > Kemudian "klik send test message"
 ```
-Untuk referensi video implementasinya : https://www.youtube.com/watch?v=zg_WxgXWiZs
+Untuk referensi video implementasinya : https://www.youtube.com/watch?v=2TSm2YGBT1s
 
 Project ini dibuat oleh :
 Melly Amalia (2018150109)
