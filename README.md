@@ -12,7 +12,8 @@ Implementasi FCM (Firebase) untuk notifikasi pada device android menggunakan Flu
 > Isi android package name dengan "com.example.fcm_flutter_notification"
 > Column yang lain biarkan kosong, kemudian klik Register App
 > Jika sudah, kemudian download config file nya "google-services.json"
-> Hapus file google-services.json yang ada pada folder, terus ganti dengan file google-services.json yang baru anda download
+> Hapus file google-services.json yang ada pada folder, 
+> terus ganti dengan file google-services.json yang baru anda download
 > Upload google-services.json pada folder project (project/android/app)
 > Jalankan debugging, nanti muncul sebuah token 
 > Kembali ke firebase, ke bagian Cloud Messaging lagi 
